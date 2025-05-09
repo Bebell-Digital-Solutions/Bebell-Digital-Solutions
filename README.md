@@ -15,6 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
+## ✍️ Frase del Día:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🌐 Redes Sociales:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@bebelldigittalsolutions) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bebelldigittals) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bebelldigittalsolutions) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bebelldigittalsolutions) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bebelldigittals) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@bebelldigittalsolutions) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hola@bebelldigitalsolutions.com) 
 
@@ -30,8 +33,6 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 Logros GitHub y Contribuciones:
 ![](https://github-contributor-stats.vercel.app/api?username=Bebell-Digital-Solutions&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## ✍️ Frase Inspiradora:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 Proyectos Destacados:
 - [Magic Toolbox](https://github.com/Bebell-Digital-Solutions/MagicToolbox-V08-English) - Directorio de Herramientas y Soluciones Digitales.  
