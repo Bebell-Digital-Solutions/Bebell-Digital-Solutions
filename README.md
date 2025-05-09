@@ -39,17 +39,17 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-## 💰 Apóyanos haciendo una contribución:
+# 💰 Apóyanos haciendo una contribución:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/BebellDigitalSolutions) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/BebellDesignStudio?country.x=DO&locale.x=es_US) 
 
 ---
 ## 💌 Contacto y Soporte:<br>
-📫 ¿Necesitas ayuda? 
-Escríbenos a hola@bebelldigitalsolutions.com.
+### 📫 ¿Necesitas ayuda? <br/>
+Escríbenos a: hola@bebelldigitalsolutions.com.
 
 
 ---
-## ✨ Creado con Pasión
+### ✨ Creado con Pasión
 "Transforma tu negocio digital, alcanza el éxito."
 
 
