@@ -48,7 +48,7 @@ Escríbenos a hola@bebelldigitalsolutions.com.
 
 ---
 ## ✨ Creado con Pasión
-**"Transforma tu negocio digital, alcanza el éxito."  *
+"Transforma tu negocio digital, alcanza el éxito."
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
