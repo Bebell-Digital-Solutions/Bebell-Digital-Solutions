@@ -5,7 +5,7 @@ Bebell-Digital-Solutions/Bebell-Digital-Solutions is a ✨ special ✨ repositor
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 Sobre Bebell Digital Solutions:
-🚀 Impulsa tu negocio digital<br>📲 Soluciones para emprendedores & empresas<br>🌎 Marketing, automatización & IA<br>🔗 Herramientas y formación para crecer<br>⬇️ Descubre más:<br>https://bebelldigitalsolutions.com
+🚀 Impulsa tu negocio digital<br>📲 Soluciones para emprendedores & empresas<br>🌎 Marketing, automatización & IA<br>🔗 Herramientas y formación para crecer<br>⬇️ Descubre más:<br>🌐 https://bebelldigitalsolutions.com<br>🔗 https://elnegocio.digital
 
 
 ## 🌐 Socials:
